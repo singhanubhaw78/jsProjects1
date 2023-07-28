@@ -1,0 +1,35 @@
+
+div{
+    display: flex;
+    justify-content: space-evenly;
+    height: 30vh;
+    align-items: flex-end;
+}
+.button{
+    width: 100px;
+    height: 100px;
+    color: white;
+}
+.button:hover{
+    cursor: pointer;
+}
+#grey{
+    background-color: grey;
+    /* color: black; */
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+    color: black;
+}
+#white{
+    background-color: white;
+    color: black;
+}
+p{
+    text-align: center;
+    margin-top: 80px;
+    /* color: white; */
+}
